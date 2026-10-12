@@ -6,12 +6,12 @@
     "page": "https://github.com/davidpheluk/thansohoc-live/releases/tag/v3.2"
   },
   "engine": {
-    "version": 7,
+    "version": 8,
     "minAppVersion": 17,
-    "url": "https://raw.githubusercontent.com/davidpheluk/thansohoc-live/main/engine/engine-7.js",
-    "size": 286769,
-    "sha256": "8ddc4d15a2fdccaacb840d32ea6a2a54b0253ba104e877052c2580b6b5c68d08",
-    "sig": "MEUCIQClZol9lCKFtDAONzipKTwlWgegkk66CpwqEwnm6S9TEwIgM9RfacW0u4YjI3bt1W3pKPusbY7sAa/PI5yD/G0TPnM="
+    "url": "https://raw.githubusercontent.com/davidpheluk/thansohoc-live/main/engine/engine-8.js",
+    "size": 292228,
+    "sha256": "8cd778ded36535f37d8c3c45b11c21bb52f3104c0505c9efd1e1070116bca7c8",
+    "sig": "MEYCIQD4sEHEXw/ZDCK5nkqzNU8RMoqeIotMYEbQRPUJEYeADgIhAMVZHhD40srzc16D+25go89OgBCV1L8fQQNhnM5bXCmA"
   },
-  "builtAt": "2026-10-12T07:07:35.298Z"
+  "builtAt": "2026-10-12T08:03:27.741Z"
 }
