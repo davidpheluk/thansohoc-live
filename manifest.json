@@ -1,9 +1,9 @@
 {
   "app": {
-    "versionCode": 22,
-    "versionName": "3.6",
-    "apk": "https://github.com/davidpheluk/thansohoc-live/releases/download/v3.6/ThanSoHoc-4G.apk",
-    "page": "https://github.com/davidpheluk/thansohoc-live/releases/tag/v3.6"
+    "versionCode": 23,
+    "versionName": "3.7",
+    "apk": "https://github.com/davidpheluk/thansohoc-live/releases/download/v3.7/ThanSoHoc-4G.apk",
+    "page": "https://github.com/davidpheluk/thansohoc-live/releases/tag/v3.7"
   },
   "engine": {
     "version": 10,
@@ -11,7 +11,7 @@
     "url": "https://raw.githubusercontent.com/davidpheluk/thansohoc-live/main/engine/engine-10.js",
     "size": 297511,
     "sha256": "f108c916fc9917ecfd128e5ef4007cbf8dbbd1e9a8a9334707574a8c5cd3a2c2",
-    "sig": "MEUCIQCIaT018PYd8oohqd3zhX97dmeGWZgrmNYm9Lvm/Ur/AAIgLwjzxoR1lFnotIzo1DelYmKUJV3QJR0PioaPlYXROV4="
+    "sig": "MEUCIHNZ8KREIlXSeYCuMFSNAMmW1ubxM9ht82tcIxWGZQhvAiEAscf0WcRSVKD2oeeCHmwq7NPeyWAW4hiVALDvQP0f2Ns="
   },
-  "builtAt": "2026-10-12T15:09:35.952Z"
+  "builtAt": "2026-10-12T15:26:49.450Z"
 }
